@@ -1,6 +1,6 @@
-wplms
+[wplms](http://casualbrooks.github.io/wplms)
 =====
 
 teach a class online
 
-[a link](http://casualbrooks.github.io/wplms)
+[http://casualbrooks.github.io/wplms](http://casualbrooks.github.io/wplms)
